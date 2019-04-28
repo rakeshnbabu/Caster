@@ -23,7 +23,7 @@
     - `open file` -  `open('filename', 'r') as f:`
 - [Contributing / How can I help?](https://github.com/synkarius/caster/blob/master/caster/doc/CONTRIBUTING.md)
 - Need support or just curious? Join our community at [![Join the chat at https://gitter.im/synkarius/caster](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dictation-toolbox/home) or [Discord](https://discord.gg/9eAAsCJ) for voice chat.
-- The [Voice Index](http://caster.readthedocs.org/en/latest/caster/doc/readthedocs/Voice%20Index/) is a curated source of information: Videos, Blogs, Repositories, Presentations, etc related to Dragonfly, voice programming, and accessibility.
+- The [Voice Index](https://github.com/dictation-toolbox/Caster/blob/develop/castervoice/doc/readthedocs/Voice_Index.md) is a curated source of information: Videos, Blogs, Repositories, Presentations, etc related to Dragonfly, voice programming, and accessibility.
 
 # Feature List
 
